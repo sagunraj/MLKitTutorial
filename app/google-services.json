@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849426551359",
+    "firebase_url": "https://mlkittutorial-af6bd.firebaseio.com",
+    "project_id": "mlkittutorial-af6bd",
+    "storage_bucket": "mlkittutorial-af6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849426551359:android:5354263e1eed71f8",
+        "android_client_info": {
+          "package_name": "np.com.sagunraj.mlkittutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849426551359-63ft2udm5e94a87vpam1v2pi0mvdpj49.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "849426551359-63ft2udm5e94a87vpam1v2pi0mvdpj49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_dzDkSpxgxrFirB-uKUPBlfpc3wygo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
